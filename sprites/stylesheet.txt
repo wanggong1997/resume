@@ -1,0 +1,23 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-__________-_____-3png-com_ {
+    width: 2116px;
+    height: 2617px;
+    background-position: -5px -5px;
+}
+
+.sprite-gift {
+    width: 1240px;
+    height: 928px;
+    background-position: -2131px -5px;
+}
+
+.sprite-title {
+    width: 720px;
+    height: 668px;
+    background-position: -2131px -943px;
+}
